@@ -23,11 +23,30 @@
 @media only screen and (min-device-width: 641px) and (max-device-width: 1140px) 
 	{
 
-	.box1 {	background-color: blue; width: 23%; height: 100px; display: inline-block; }
+	.box1 {	
+		background-color: blue; 
+		width: 23%; 
+		height: 100px; 
+		display: inline-block; 
+	}
 
-	.box2 {	background-color: purple; width: 23%; height: 100px; display: inline-block; }
+	.box2 {	
+		background-color: purple; 
+		width: 23%; 
+		height: 100px; 
+		display: inline-block; 
+	}
 
-	.box3 {	background-color: grey; width: 23%; height: 100px; display: inline-block; }
+	.box3 {	
+		background-color: grey; 
+		width: 23%; 
+		height: 100px; 
+		display: inline-block; 
+	}
 
-	.box4 {	background-color: brown; width: 23%; height: 100px; display: inline-block; }
+	.box4 {	background-color: brown; 
+		width: 23%; 
+		height: 100px; 
+		display: inline-block; 
+	}
 }
